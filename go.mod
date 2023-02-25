@@ -4,14 +4,13 @@ go 1.13
 
 require (
 	github.com/code-ready/machine v0.0.0-20191122132905-c31e0b90623d
-	github.com/coreos/rkt v1.30.0 // indirect
 	github.com/go-logr/logr v0.1.0
 	github.com/google/uuid v1.1.1
 	github.com/openshift/api v0.0.0-20200205133042-34f0ec8dab87
 	github.com/openshift/client-go v0.0.0-20191125132246-f6563a70e19a
 	github.com/operator-framework/operator-sdk v0.17.1
 	github.com/spf13/pflag v1.0.5
-	golang.org/x/crypto v0.0.0-20200414173820-0848c9571904
+	golang.org/x/crypto v0.1.0
 	k8s.io/api v0.17.4
 	k8s.io/apimachinery v0.17.4
 	k8s.io/client-go v12.0.0+incompatible
